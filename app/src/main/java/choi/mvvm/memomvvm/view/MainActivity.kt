@@ -1,7 +1,8 @@
-package choi.mvvm.memomvvm
+package choi.mvvm.memomvvm.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import choi.mvvm.memomvvm.R
 
 class MainActivity : AppCompatActivity() {
 
